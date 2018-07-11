@@ -1,7 +1,7 @@
 from __future__ import division
 
-USER = 'CHIHO SO'
-USER_ID = 'xbwl44'
+'''Simulation of Chemotaxis, a modified randon walk used by some bacteria to
+find food sources. This uses a run and tumble process'''
 
 import numpy
 import matplotlib.pyplot as pyplot
